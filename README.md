@@ -1,2 +1,2 @@
 # Main Coding Projects
-# Mix of C, Python, SQL, Flask, and morex
+# Mix of C, Python, SQL, Flask, and more
